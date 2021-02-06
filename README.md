@@ -4,14 +4,13 @@
   <img src="images/TNA_logo.png" height="15%" width="15%"/>
 </p>
 
-### Project
+### Project:
 Web Applications exam project AA. 2019-2020 - &copy; Filippo Petri - Andrea Agostini - Luca Molettieri
 
 ---
 
-### Description
+### Description:
 The project consists of the creation of a web app for the management of an e-commerce website with user registration, many db operations, product search functions, categories filters, profile management, recent orders, shopping cart and organization of available objects.
-The 
 
 ---
 
@@ -19,18 +18,18 @@ The
   <img src="images/home.png" height="75%" width="75%"/> <br> Homepage <br> <br>
   <img src="images/shop.png" height="75%" width="75%"/> <br> Shop page <br> <br>
   <img src="images/login.png" height="75%" width="75%"/> <br> Login/register <br> <br>
+  <img src="images/carrello.png" height="75%" width="75%"/> <br> Shopping cart <br> <br>
   <img src="images/profilo1.png" height="75%" width="75%"/> <br> Profile tab 1 <br> <br>
   <img src="images/profilo2.png" height="75%" width="75%"/> <br> Profile tab 2 <br> <br>
   <img src="images/profilo3.png" height="75%" width="75%"/> <br> Profile tab 3 <br> <br>
   <img src="images/profilo4.png" height="75%" width="75%"/> <br> Profile tab 4 <br> <br>
-  <img src="images/about.png" height="75%" width="75%"/> <br> About page <br> <br>
-  <img src="images/carrello.png" height="75%" width="75%"/> <br> Shopping cart
+  <img src="images/about.png" height="75%" width="75%"/> <br> About page
   <br>
 </p>
 
 ---
 
-### Technologies:
+### Technologies used:
 <p align="center">
   <img src="images/Html5_logo.png" height="50px"/>
   <img src="images/CSS_logo.png" height="50px"/>
