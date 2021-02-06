@@ -23,6 +23,7 @@ The
   <img src="images/profilo2.png" height="75%" width="75%"/> <br> Profile tab 2 <br> <br>
   <img src="images/profilo3.png" height="75%" width="75%"/> <br> Profile tab 3 <br> <br>
   <img src="images/profilo4.png" height="75%" width="75%"/> <br> Profile tab 4 <br> <br>
+  <img src="images/about.png" height="75%" width="75%"/> <br> About page <br> <br>
   <img src="images/carrello.png" height="75%" width="75%"/> <br> Shopping cart
   <br>
 </p>
