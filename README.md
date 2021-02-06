@@ -1,7 +1,7 @@
 # TNA - Web app project
 
 <p align="center">
-  <img src="images/TNA_logo.jpg" height="15%" width="15%"/>
+  <img src="images/TNA_logo.png" height="15%" width="15%"/>
 </p>
 
 ### Project
@@ -16,7 +16,7 @@ The
 ---
 
 <p align="center">
-  <img src="images/homepage.png" height="75%" width="75%"/> <br> Homepage <br> <br>
+  <img src="images/home.png" height="75%" width="75%"/> <br> Homepage <br> <br>
   <img src="images/shop.png" height="75%" width="75%"/> <br> Shop page <br> <br>
   <img src="images/login.png" height="75%" width="75%"/> <br> Login/register <br> <br>
   <img src="images/profilo1.png" height="75%" width="75%"/> <br> Profile tab 1 <br> <br>
