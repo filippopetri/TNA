@@ -5,7 +5,7 @@
 </p>
 
 ### Project
-Web Applications exam project AA. 2019-2020 - &copy; Petri Filippo - Andrea Agostini - Molettieri Luca
+Web Applications exam project AA. 2019-2020 - &copy; Filippo Petri - Andrea Agostini - Luca Molettieri
 
 ---
 
