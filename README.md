@@ -9,6 +9,12 @@ Web Applications exam project AA. 2019-2020 - &copy; Petri Filippo - Andrea Agos
 
 ---
 
+### Description
+The project consists of the creation of a web app for the management of an e-commerce website with user registration, many db operations, product search functions, categories filters, profile management, recent orders, shopping cart and organization of available objects.
+The 
+
+---
+
 <p align="center">
   <img src="images/homepage.png" height="75%" width="75%"/> <br> Homepage <br> <br>
   <img src="images/shop.png" height="75%" width="75%"/> <br> Shop page <br> <br>
@@ -20,12 +26,6 @@ Web Applications exam project AA. 2019-2020 - &copy; Petri Filippo - Andrea Agos
   <img src="images/carrello.png" height="75%" width="75%"/> <br> Login/register <br> <br>
   <br>
 </p>
-
----
-
-### Description
-The project consists of the creation of a web app for the management of an e-commerce website with user registration, many db operations, product search functions, categories filters, profile management, recent orders, shopping cart and organization of available objects.
-The 
 
 ---
 
