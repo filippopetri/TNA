@@ -7,7 +7,7 @@
 ### Project:
 Web Applications exam project AA. 2019-2020
 
---
+___
 
 <p align="center">
   Copyright &copy; 2020 Filippo Petri - Andrea Agostini - Luca Molettieri
