@@ -1,7 +1,7 @@
 # TNA - Web app project
 
 <p align="center">
-  <img src="images/TNA_logo.png" height="15%" width="15%"/>
+  <img src="images/TNA_logo.png" height="25%" width="25%"/>
 </p>
 
 ### Project:
