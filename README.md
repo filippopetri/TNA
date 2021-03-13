@@ -1,4 +1,4 @@
-# TNA - Web app project
+# TNA - Web app project:
 
 <p align="center">
   <img src="images/TNA_logo.png" height="25%" width="25%"/>
