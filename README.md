@@ -23,10 +23,11 @@ ___
 ___
 
 <p align="center">
-  <img style="float: left" src="images/home.png" height="40%" width="40%"/> <img style="float: right" src="images/shop.png" height="40%" width="40%"/> <br> Homepage - Shop page <br> <br>
-  <img style="float: left" src="images/login.png" height="75%" width="75%"/> <br> Login/register  <img style="float: right" src="images/carrello.png" height="75%" width="75%"/> <br> Shopping cart <br> <br>
-  <img style="float: left" src="images/profilo1.png" height="75%" width="75%"/> <br> Profile tab 1  <img style="float: right" src="images/profilo2.png" height="75%" width="75%"/> <br> Profile tab 2 <br> <br>
-  <img style="float: left" src="images/profilo3.png" height="75%" width="75%"/> <br> Profile tab 3  <img style="float: right" src="images/profilo4.png" height="75%" width="75%"/> <br> Profile tab 4 <br> <br>
+  <img src="images/home.png" height="75%" width="75%"/> <br> Homepage <br> <br>
+  <img src="images/shop.png" height="75%" width="75%"/> <br> Shop page <br> <br>
+  <img style="float: left" src="images/login.png" height="40%" width="40%"/> <img style="float: right" src="images/carrello.png" height="40%" width="40%"/> <br> Login/register - Shopping cart <br> <br>
+  <img style="float: left" src="images/profilo1.png" height="40%" width="40%"/> <br> Profile tab 1  <img style="float: right" src="images/profilo2.png" height="40%" width="40%"/> <br> Profile tab 2 <br> <br>
+  <img style="float: left" src="images/profilo3.png" height="40%" width="40%"/> <br> Profile tab 3  <img style="float: right" src="images/profilo4.png" height="40%" width="40%"/> <br> Profile tab 4 <br> <br>
   <img src="images/about.png" height="75%" width="75%"/> <br> About page
   <br>
 </p>
