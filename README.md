@@ -23,7 +23,7 @@ ___
 ___
 
 <p align="center">
-  <img style="float: left" src="images/home.png" height="55%" width="55%"/> <img style="float: right" src="images/shop.png" height="55%" width="55%"/> <br> Homepage - Shop page <br> <br>
+  <img style="float: left" src="images/home.png" height="50%" width="50%"/> <img style="float: right" src="images/shop.png" height="50%" width="50%"/> <br> Homepage - Shop page <br> <br>
   <img style="float: left" src="images/login.png" height="75%" width="75%"/> <br> Login/register  <img style="float: right" src="images/carrello.png" height="75%" width="75%"/> <br> Shopping cart <br> <br>
   <img style="float: left" src="images/profilo1.png" height="75%" width="75%"/> <br> Profile tab 1  <img style="float: right" src="images/profilo2.png" height="75%" width="75%"/> <br> Profile tab 2 <br> <br>
   <img style="float: left" src="images/profilo3.png" height="75%" width="75%"/> <br> Profile tab 3  <img style="float: right" src="images/profilo4.png" height="75%" width="75%"/> <br> Profile tab 4 <br> <br>
