@@ -28,12 +28,11 @@ ___
   <img src="images/login.png" height="75%" width="75%"/> <br> Login/Register <br> <br>
   <img src="images/carrello.png" height="75%" width="75%"/> <br> Shopping cart <br> <br>
   <img src="images/about.png" height="75%" width="75%"/> <br> About page <br> <br>
-
   <img style="float: left" src="images/profilo1.png" height="49%" width="49%"/> <img style="float: right" src="images/profilo2.png" height="49%" width="49%"/> <br> Profile tab 1 & 2 <br> <br>
   <img style="float: left" src="images/profilo3.png" height="49%" width="49%"/> <img style="float: right" src="images/profilo4.png" height="49%" width="49%"/> <br> Profile tab 3 & 4 <br> <br>
 </p>
 
----
+___
 
 ### Technologies used:
 <p align="center">
